@@ -1,0 +1,9 @@
+#Number theory
+	1.Prime
+	2.prime factorization 
+	3.lcm
+	4.gcd
+	5.extended gcd
+	6.eulers totient
+	7.counting
+	8.combinatorics
